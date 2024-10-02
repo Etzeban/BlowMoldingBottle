@@ -32,7 +32,7 @@ Bottle blow mold in SolidWorks CAM simulation: <br/>
 <img src="https://i.imgur.com/CemYwXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-G-code simulation on CAMotics:  <br/>
+G-code simulation in CAMotics:  <br/>
 <img src="https://i.imgur.com/iSmMhIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
