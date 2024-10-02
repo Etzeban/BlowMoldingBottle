@@ -12,28 +12,28 @@ In this project, I managed a team of 5 students to construct blow-molding molds 
 <h2>Project's snapshots:</h2>
 
 <p align="center">
-Design for bottle cap and snap-fit lid <br/>
-<img src="https://i.imgur.com/VNldmvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sample water bottle: <br/>
+<img src="https://i.imgur.com/AnV78ji.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Bottle cap is fully assembled  <br/>
-<img src="https://i.imgur.com/QVid9sM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Water bottle designed in SolidWorks:  <br/>
+<img src="https://i.imgur.com/4kVx6zN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Section view of the full assembled bottle cap <br/>
-<img src="https://i.imgur.com/qcN4KEm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Blow molding designed in SolidWorks: <br/>
+<img src="https://i.imgur.com/quvg2p8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Detail drawing of the bottle cap  <br/>
-<img src="https://i.imgur.com/t3pvvUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bottle and blow molds assembly in SolidWorks:  <br/>
+<img src="https://i.imgur.com/IGudTYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Detail drawing of the snap-fit lid  <br/>
-<img src="https://i.imgur.com/45GOc52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bottle blow mold in SolidWorks CAM simulation: <br/>
+<img src="https://i.imgur.com/CemYwXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Nonlinear FEA stress analysis in SolidWorks  <br/>
-<img src="https://i.imgur.com/BWAkE0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+G-code simulation on CAMotics:  <br/>
+<img src="https://i.imgur.com/iSmMhIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
